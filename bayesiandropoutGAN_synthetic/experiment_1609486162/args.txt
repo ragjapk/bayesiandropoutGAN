@@ -1,0 +1,8 @@
+Experiment settings:
+{'dataset': '2dring',
+ 'out_dir': 'conf',
+ 'random_seed': 2,
+ 'save_weights': False,
+ 'train_iter': 120000,
+ 'x_dim': 100,
+ 'z_dim': 100}
